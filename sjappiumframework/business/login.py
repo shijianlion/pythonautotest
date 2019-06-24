@@ -1,8 +1,3 @@
-'''
-Created on 2019年3月18日
-
-@author: 博为峰
-'''
 from pageobject.elements import *
 from selenium.webdriver.support.wait import WebDriverWait 
 from selenium.webdriver.support import expected_conditions as EC
