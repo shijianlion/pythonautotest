@@ -7,5 +7,10 @@ def login(self,username,password,expected):
     dr.find_element(*username_loc).send_keys(username)
     dr.find_element(*password_loc).clear()
     dr.find_element(*password_loc).send_keys(password)
-    dr.find_element(*btn_login_loc).click()
+    dr.find_element(*btn_login_loc).cl
+
+
+
+
+
 
