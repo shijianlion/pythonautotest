@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonautotest.iml" filepath="$PROJECT_DIR$/.idea/pythonautotest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../shijian0517/.idea/shijian0517.iml" filepath="$PROJECT_DIR$/../shijian0517/.idea/shijian0517.iml" />
     </modules>
   </component>
 </project>
