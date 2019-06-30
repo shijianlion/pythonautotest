@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="755ae8ae-072d-40df-bd94-b380344ad121" name="Default Changelist" comment="fefaefaef">
+    <list default="true" id="755ae8ae-072d-40df-bd94-b380344ad121" name="Default Changelist" comment="shijian02">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sjappiumframework/business/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjappiumframework/business/login.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,12 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sjappiumframework/business/login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            <state relative-caret-position="171">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
@@ -79,19 +80,13 @@
               <item name="pythonautotest" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonautotest" type="462c0819:PsiDirectoryNode" />
               <item name="sjappiumframework" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonautotest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonautotest" type="462c0819:PsiDirectoryNode" />
-              <item name="sjappiumframework" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonautotest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonautotest" type="462c0819:PsiDirectoryNode" />
-              <item name="sjappiumframework" type="462c0819:PsiDirectoryNode" />
               <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonautotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonautotest" type="462c0819:PsiDirectoryNode" />
+              <item name="sjappiumframework" type="462c0819:PsiDirectoryNode" />
+              <item name="test_case" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -190,11 +185,26 @@
       <option name="project" value="LOCAL" />
       <updated>1561896505189</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="shijian">
+      <created>1561900803055</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561900803055</updated>
+    </task>
+    <task id="LOCAL-00003" summary="shijian02">
+      <created>1561900896892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561900896892</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24968314" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -206,7 +216,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32884097" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32839838" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -217,7 +227,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fefaefaef" />
-    <option name="LAST_COMMIT_MESSAGE" value="fefaefaef" />
+    <MESSAGE value="shijian" />
+    <MESSAGE value="shijian02" />
+    <option name="LAST_COMMIT_MESSAGE" value="shijian02" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sjappiumframework/data/__init__.py">
@@ -253,8 +265,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sjappiumframework/business/login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
