@@ -6,17 +6,24 @@ def login(self,username,password,expected):
     dr.find_element(*username_loc).clear()
     dr.find_element(*username_loc).send_keys(username)
     dr.find_element(*password_loc).clear()
-    dr.find_element(*passwo
-ffefewfewf
-    awefefefe
+    dr.find_element(*password_loc).send_keys(password)
+    dr.find_element(*btn_login_loc).cl
+
+faefefefa44
 
 
-    eafewfewffwee
+ggdgrdgsrgrg
 
-    455454
-    5
-    45
-    454545454545
+rgrgrgrgrg
 
-    5
-    4545faefaefe
+grgrgewgewgewg
+
+utfytyrty
+
+rragreht2223232323434
+
+
+
+qfegf
+
+232434343
